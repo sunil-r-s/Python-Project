@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Load the dataset
-data = pd.read_csv(r'Python-Poject2\melb_data.csv')
+data = pd.read_csv(r'Python-Project\Python Project2\melb_data.csv')
 print("Before Cleaning:", data.shape)
 
 # Remove rows with missing Values
