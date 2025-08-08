@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file_path = 'Python-Project/Temp_data.csv'
+file_path = 'Python-Project\Python Project1\Temp_data.csv'
 df = pd.read_csv(file_path)
 
 
