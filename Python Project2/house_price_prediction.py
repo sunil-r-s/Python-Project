@@ -49,3 +49,5 @@ plt.show()
 import joblib
 joblib.dump(model, 'house_price_model.pkl')
 print("Model saved as 'house_price_model.pkl")
+
+print("============================")
