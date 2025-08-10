@@ -1,2 +1,2 @@
 # Python-Project
-It's internship project
+It's internship project Python
